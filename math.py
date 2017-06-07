@@ -4,6 +4,8 @@ CS 170 Section 2
 Program generates math problems for children and tracks their progress as
 they answer the problems."""
 
+# one of my first programs... I promise I'll fix this abomination
+
 from graphics import *
 from random import *
 from time import *
